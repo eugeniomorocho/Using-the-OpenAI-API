@@ -2,9 +2,7 @@
 
 ## Introducción
 
-Este repositorio proporciona un tutorial básico para utilizar la API de OpenAI en un Jupyter Notebook. Incluye ejemplos de generación de texto con el modelo GPT-3, generación de imágenes con DALL-E, conversión de texto a voz y voz a texto, así como la interacción con un DataFrame de Pandas. Se detallan los pasos de instalación, configuración y uso de la API de OpenAI, además de ofrecer ejemplos prácticos para cada funcionalidad. Las contribuciones al repositorio son bienvenidas y se proporciona información de contacto para más detalles.
-
-Se incluye como caso práctico un análisis detallado del proceso tradicional de Business Intelligence (BI) para la segmentación de clientes de un centro comercial, utilizando el algoritmo KMeans, y lo compara con el uso de la API de OpenAI, específicamente el modelo GPT-3.5 Turbo, para obtener recomendaciones estratégicas sobre la segmentación de clientes.
+Este repositorio proporciona un tutorial básico para utilizar la API de OpenAI en un Jupyter Notebook. Incluye ejemplos de generación de texto con el modelo GPT-3.5 Turbo, generación de imágenes con DALL-E, conversión de texto a voz y voz a texto, así como la interacción con un DataFrame de Pandas como caso práctico de análisis de un proceso tradicional de Business Intelligence (BI) para la segmentación de clientes de un centro comercial. Se detallan los pasos de instalación, configuración y uso de la API de OpenAI, además de ofrecer ejemplos prácticos para cada funcionalidad. Las contribuciones al repositorio son bienvenidas y se proporciona información de contacto para más detalles.
 
 ## Requisitos
 
